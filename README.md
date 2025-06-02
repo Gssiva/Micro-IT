@@ -1,6 +1,7 @@
 # Micro-IT
 Students management system 
 
+
 1. mockUsers
 Contains login credentials for:
 
@@ -65,3 +66,4 @@ Simulating end-to-end academic flows
 
 College Info:
 All records are linked to a single college ID: c1 (e.g., GSK Institute).
+
