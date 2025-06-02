@@ -5,11 +5,11 @@ Students management system
 1. mockUsers
 Contains login credentials for:
 
-👨‍🎓 Students (role: 'student')
+Students (role: 'student')
 
-👨‍👩‍👧 Parents (role: 'parent')
+Parents (role: 'parent')
 
-👨‍🏫 Teachers (role: 'teacher')
+Teachers (role: 'teacher')
 
 All users have email format: name@gsk.edu.in
 
@@ -53,17 +53,17 @@ Leave requests submitted by students
 
 Includes leave dates, reasons, review status, and teacher review
 
-💡 Purpose:
+Purpose:
 This mock data is ideal for:
 
-🌐 Frontend UI testing
+Frontend UI testing
 
-🔁 API integration demo
+API integration demo
 
-🧪 Unit & integration tests
+Unit & integration tests
 
-📊 Simulating end-to-end academic flows
+Simulating end-to-end academic flows
 
-🏫 College Info:
+College Info:
 All records are linked to a single college ID: c1 (e.g., GSK Institute).
 
